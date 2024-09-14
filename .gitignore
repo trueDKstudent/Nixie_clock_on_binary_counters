@@ -1,0 +1,14 @@
+# Nixie clock V4.1 ignore files and folders
+
+#files
+*.docx
+*.odt
+*.ods
+
+#folders
+step_models/
+__Previews/
+Gerber_files/
+History/
+Project Logs for Clock_PCB/
+Project Outputs for Clock_PCB/
